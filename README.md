@@ -1,4 +1,5 @@
 # 🦔 SONIC RUNNER ULTIMATE
+<img width="1916" height="996" alt="image" src="https://github.com/user-attachments/assets/9e9689d2-298a-4667-9ebd-451f0481c41a" />
 
 The world's best Sonic endless runner game with premium features!
 
