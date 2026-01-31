@@ -60,6 +60,7 @@ Create the following folder structure:
 ```
 project-root/
 ├── src/
+|   |--utils.ts
 │   ├── main.ts
 │   ├── kaplayCtx.ts
 │   ├── entities.ts
